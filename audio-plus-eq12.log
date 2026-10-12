@@ -1,0 +1,17 @@
+Audio Plus KR 1.3.0
+result=00000000
+rollback=00000000
+enabled=1
+boost_db=6
+preset=0
+slider=63
+eq_owned_mask=0
+eq_uncertain=0
+eq_transactions=14
+eq_ipc_calls=56
+eq_last_filter=3
+eq_transport=00000000
+eq_service=00000000
+eq_calibration_mode=1
+eq_calibration_result=00000000
+eq_readback_verified=0

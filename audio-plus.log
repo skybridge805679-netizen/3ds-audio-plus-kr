@@ -1,0 +1,23 @@
+Audio Plus KR 1.4.0 (Luma3DS 13.4)
+event=auto reapply
+result=00000000
+rollback=00000000
+enabled=1
+boost_db=5
+preset=3
+bass_db=5
+treble_db=4
+makeup_half_db=10
+auto_apply=1
+auto_reapplies=6
+slider=63
+eq_active=1
+eq_owned_mask=15
+eq_uncertain=0
+eq_transactions=7
+eq_ipc_calls=28
+eq_last_filter=3
+eq_transport=00000000
+eq_service=00000000
+eq_calibration_mode=1
+eq_calibration_result=00000000

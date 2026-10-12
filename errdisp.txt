@@ -1,0 +1,644 @@
+Reported on:      2025-01-30 21:40:28
+System booted on: 2025-01-30 20:18:34
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-02-01 02:19:50
+System booted on: 2025-02-01 00:14:53
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-02-01 16:46:04
+System booted on: 2025-02-01 16:27:49
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-02-02 23:45:42
+System booted on: 2025-02-02 22:09:34
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-02-03 21:11:46
+System booted on: 2025-02-03 17:44:53
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-02-05 07:06:40
+System booted on: 2025-02-05 04:39:19
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-02-09 17:09:28
+System booted on: 2025-02-09 16:57:32
+
+Error type:       generic
+
+Process ID:       9
+Process name:     gpio
+Process title ID: 0004013000001b02
+
+Address:          0x001009a8
+Error code:       0xd8e007f7
+
+-------------------------------------
+
+Reported on:      2025-02-12 12:39:30
+System booted on: 2025-02-12 12:21:58
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-02-17 02:25:16
+System booted on: 2025-02-16 23:47:53
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-03-31 02:48:30
+System booted on: 2025-03-31 02:47:45
+
+Error type:       generic
+
+Process ID:       9
+Process name:     gpio
+Process title ID: 0004013000001b02
+
+Address:          0x001009a8
+Error code:       0xd8e007f7
+
+-------------------------------------
+
+Reported on:      2025-04-06 20:58:39
+System booted on: 2025-04-06 20:52:01
+
+Error type:       generic
+
+Process ID:       9
+Process name:     gpio
+Process title ID: 0004013000001b02
+
+Address:          0x001009a8
+Error code:       0xd8e007f7
+
+-------------------------------------
+
+Reported on:      2025-04-17 00:16:15
+System booted on: 2025-04-16 21:18:46
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-04-22 04:59:09
+System booted on: 2025-04-22 02:56:18
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-04-25 05:46:32
+System booted on: 2025-04-25 03:49:12
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-05-08 09:00:21
+System booted on: 2025-05-08 05:59:02
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-05-11 10:30:51
+System booted on: 2025-05-11 08:08:11
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-05-13 11:39:08
+System booted on: 2025-05-13 04:18:07
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2025-05-21 22:42:53
+System booted on: 2025-05-21 22:37:52
+
+Error type:       generic
+
+Process ID:       9
+Process name:     gpio
+Process title ID: 0004013000001b02
+
+Address:          0x001009a8
+Error code:       0xd8e007f7
+
+-------------------------------------
+
+Reported on:      2025-11-03 08:44:19
+System booted on: 2025-11-03 08:22:02
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-06 22:21:53
+System booted on: 2026-03-06 22:19:31
+
+Error type:       generic
+
+Process ID:       41
+Process name:     GARDEN_P
+Process title ID: 0004000000199000
+
+Address:          0x00155c2c
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 22:22:25
+System booted on: 2026-03-06 22:22:05
+
+Error type:       generic
+
+Process ID:       39
+Process name:     GARDEN_P
+Process title ID: 0004000000199000
+
+Address:          0x00155c2c
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 22:23:18
+System booted on: 2026-03-06 22:22:37
+
+Error type:       generic
+
+Process ID:       42
+Process name:     GARDEN_P
+Process title ID: 0004000000199000
+
+Address:          0x00155c2c
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 22:29:52
+System booted on: 2026-03-06 22:29:23
+
+Error type:       generic
+
+Process ID:       39
+Process name:     GARDEN_P
+Process title ID: 0004000000199000
+
+Address:          0x00155c2c
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 22:30:41
+System booted on: 2026-03-06 22:30:05
+
+Error type:       generic
+
+Process ID:       39
+Process name:     HikariTr
+Process title ID: 00040000000db600
+
+Address:          0x0013cd38
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 22:32:09
+System booted on: 2026-03-06 22:31:43
+
+Error type:       generic
+
+Process ID:       39
+Process name:     HikariTr
+Process title ID: 00040000000db600
+
+Address:          0x0013cd38
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:01:07
+System booted on: 2026-03-06 23:00:34
+
+Error type:       generic
+
+Process ID:       39
+Process name:     GARDEN_P
+Process title ID: 0004000000199000
+
+Address:          0x00155c2c
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:04:54
+System booted on: 2026-03-06 23:04:28
+
+Error type:       generic
+
+Process ID:       39
+Process name:     GARDEN_P
+Process title ID: 0004000000199000
+
+Address:          0x00155c2c
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:11:22
+System booted on: 2026-03-06 23:11:01
+
+Error type:       generic
+
+Process ID:       39
+Process name:     Kirby3DS
+Process title ID: 0004000000120f00
+
+Address:          0x001494e8
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:13:42
+System booted on: 2026-03-06 23:11:37
+
+Error type:       generic
+
+Process ID:       45
+Process name:     Kirby3DS
+Process title ID: 000400000017c600
+
+Address:          0x003743e0
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:18:48
+System booted on: 2026-03-06 23:13:48
+
+Error type:       generic
+
+Process ID:       64
+Process name:     HikariTr
+Process title ID: 00040000000db600
+
+Address:          0x0013cd38
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:25:01
+System booted on: 2026-03-06 23:24:12
+
+Error type:       generic
+
+Process ID:       39
+Process name:     Kirby3DS
+Process title ID: 0004000000120f00
+
+Address:          0x001494e8
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:26:03
+System booted on: 2026-03-06 23:25:09
+
+Error type:       generic
+
+Process ID:       39
+Process name:     HikariTr
+Process title ID: 00040000000db600
+
+Address:          0x0013cd38
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-06 23:32:22
+System booted on: 2026-03-06 23:32:02
+
+Error type:       generic
+
+Process ID:       39
+Process name:     Kirby3DS
+Process title ID: 000400000017c600
+
+Address:          0x003743e0
+Error code:       0xc8804478
+
+-------------------------------------
+
+Reported on:      2026-03-07 02:47:29
+System booted on: 2026-03-07 01:13:27
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-08 01:33:41
+System booted on: 2026-03-08 00:35:10
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-10 20:57:23
+System booted on: 2026-03-10 18:45:30
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-17 03:51:05
+System booted on: 2026-03-17 02:13:25
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-18 20:16:41
+System booted on: 2026-03-18 14:43:16
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-19 00:47:11
+System booted on: 2026-03-18 20:58:45
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-19 03:21:13
+System booted on: 2026-03-19 02:03:24
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-03-20 23:00:57
+System booted on: 2026-03-20 13:48:55
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-04-02 17:10:46
+System booted on: 2026-04-02 15:28:03
+
+Error type:       generic (log only)
+
+Process ID:       15
+Process name:     menu
+Process title ID: 000400300000a902
+
+Address:          0x00164058
+Error code:       0xd8604659
+
+-------------------------------------
+
+Reported on:      2026-09-26 18:12:21
+System booted on: 2026-09-26 15:30:53
+
+Error type:       generic
+
+Process ID:       46
+Process name:     SEKAIJ5
+Process title ID: 000400000018d000
+
+Address:          0x00125010
+Error code:       0xd9004587
+
+-------------------------------------
+
+Reported on:      2026-09-26 18:14:11
+System booted on: 2026-09-26 18:12:30
+
+Error type:       generic
+
+Process ID:       43
+Process name:     SEKAIJ5
+Process title ID: 000400000018d000
+
+Address:          0x00125010
+Error code:       0xd9004587
+
+-------------------------------------
+
+Reported on:      2026-09-26 18:34:25
+System booted on: 2026-09-26 18:16:34
+
+Error type:       generic
+
+Process ID:       42
+Process name:     SEKAIJ5
+Process title ID: 000400000018d000
+
+Address:          0x00125010
+Error code:       0xd9004587
+
+-------------------------------------
+
+Reported on:      2026-09-26 19:00:03
+System booted on: 2026-09-26 18:59:40
+
+Error type:       generic
+
+Process ID:       39
+Process name:     SEKAIJ5
+Process title ID: 000400000018d000
+
+Address:          0x00125010
+Error code:       0xd9004587
+
+-------------------------------------
+
